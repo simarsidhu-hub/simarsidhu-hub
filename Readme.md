@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Simranjit Sidhu</h1>
+<p align="center">
+  💻 Full Stack Developer | 🧠 Lifelong Learner | 🚀 Tech Enthusiast <br />
+  🎓 MSCS @ Georgia Tech <br />
+  🌐 Building scalable apps with React, Node.js, Python & AWS <br />
+  📫 <a href="mailto:pahuldeepsingh12@gmail.com">pahuldeepsingh12@gmail.com</a> | 🌍 <a href="https://pahuldeepsingh.com/">www.pahuldeepsingh.com</a>
+</p>
 <h3 align="center">A passionate Full Stack Developer from Canada</h3>
 
 <h3 align="left">Connect with me:</h3>
